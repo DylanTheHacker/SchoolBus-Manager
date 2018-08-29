@@ -1,0 +1,9 @@
+C:\Users\wuxibwave\Desktop\WebBusApp\Common\bin\Release\Common.dll
+C:\Users\wuxibwave\Desktop\WebBusApp\Common\bin\Release\Common.pdb
+C:\Users\wuxibwave\Desktop\WebBusApp\Common\obj\Release\Common.dll
+C:\Users\wuxibwave\Desktop\WebBusApp\Common\obj\Release\Common.pdb
+D:\WebBus2\Common\bin\Release\Common.dll
+D:\WebBus2\Common\bin\Release\Common.pdb
+D:\WebBus2\Common\obj\Release\Common.dll
+D:\WebBus2\Common\obj\Release\Common.pdb
+D:\WebBus2\Common\obj\Release\Common.csprojResolveAssemblyReference.cache

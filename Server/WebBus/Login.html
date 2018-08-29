@@ -1,0 +1,119 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Login</title>
+    <script src="js/jquery-min.js" type="text/javascript"></script>
+    <script>
+
+        var ws;
+        function CreateWebSocket() {
+            alert("create socket");
+            ws = new WebSocket('ws://' + window.location.hostname + ':' + window.location.port + '/WebsocketHandler.ashx?user=' + $("#uid").val());
+            $('#msg').append('<p>' + $("#uid").val() + '正在连接</p>');
+
+            ws.onopen = function () {
+                $('#msg').append('<p>' + $("#uid").val() + '已经连接</p>');
+            }
+            ws.onmessage = function (evt) {
+                $('#msg').append('<p>' + evt.data + '</p>');
+            }
+            ws.onerror = function (evt) {
+                $('#msg').append('<p>' + JSON.stringify(evt) + '</p>');
+            }
+            ws.onclose = function () {
+                $('#msg').append('<p>已经关闭</p>');
+            }
+        }
+
+        function CloseWebSocket() {
+            ws.close();
+        }
+
+        function SendMsg() {
+            if (ws.readyState == WebSocket.OPEN) {
+                var type;
+                if ($("#group").is(":checked")) {
+                    type = "1";
+                }
+                else {
+                    type = "2";
+                }
+
+                var obj = { "fromId": $("#uid").val(), "type": type, "toId": $("#to").val(), "msgContent": $("#msgStr").val() };
+                var msg = JSON.stringify(obj);
+                //alert(msg);
+                ws.send(msg);
+
+            }
+            else {
+                $('#tips').text('连接已经关闭');
+            }
+        }
+
+        function login() {
+            alert("start----------");
+            //var jsonObj = { userid: $("#uid").val(), userpwd: $("#upwd").val() };
+            //var jsonStr = JSON.stringify(jsonObj);
+            //$.ajax({
+            //type: "post",
+            //url: "Login.ashx",
+            //data: jsonStr,
+            //async: false,
+            //contentType: "application/json; charset=utf-8",
+            //dataType: "json",
+            //success: function (data)
+            //{            
+            //    alert(data["ResultCode"]);
+            //},
+            //error: function () {
+            //    alert("register failed");
+            //}            
+            //});
+
+            CreateWebSocket();
+        }
+    </script>
+</head>
+<body>
+    <div style="width:300px;height:300px">
+        <table style="width:300px;height:300px">
+            <tr>
+                <td>账号1</td>
+                <td>
+                    <input id="uid" type="text">
+                </td>
+            </tr>
+            <tr>
+                <td>密码</td>
+                <td>
+                    <input id="upwd" type="text">
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <input id="login" type="button" value="登录" onclick="login()">
+                </td>
+            </tr>
+
+        </table>
+    </div>
+    <span>----------------------</span>
+    <!--div id="msgDiv" style="width:300px;height:500px;display:none"-->
+    <div id="msgDiv" style="width:300px;height:500px;">
+        <div id="msg" style="overflow:auto;width:300px;height:400px;background-color:darkseagreen;">
+
+        </div>
+        <table style="width:300px;height:100px">
+            <tr>
+                <td><input id="group" type="checkbox" />群聊</td>
+                <td>发送给：<input id="to" type="text"></td>
+            </tr>
+            <tr>
+                <td><input id="msgStr" type="text"></td>
+                <td><input id="send" type="button" value="发送" onclick="SendMsg()"></td>
+            </tr>
+        </table>
+        </div>
+</body>
+</html>

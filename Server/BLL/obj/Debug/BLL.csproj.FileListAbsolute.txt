@@ -1,0 +1,52 @@
+C:/Users/wuxibwave/Desktop/WebBusApp/BLL/bin/Debug/BLL.dll
+C:/Users/wuxibwave/Desktop/WebBusApp/BLL/bin/Debug/BLL.pdb
+C:/Users/wuxibwave/Desktop/WebBusApp/BLL/bin/Debug/Common.dll
+C:/Users/wuxibwave/Desktop/WebBusApp/BLL/bin/Debug/DAL.dll
+C:/Users/wuxibwave/Desktop/WebBusApp/BLL/bin/Debug/Model.dll
+C:/Users/wuxibwave/Desktop/WebBusApp/BLL/bin/Debug/Npgsql.dll
+C:/Users/wuxibwave/Desktop/WebBusApp/BLL/bin/Debug/Mono.Security.dll
+C:/Users/wuxibwave/Desktop/WebBusApp/BLL/bin/Debug/Common.pdb
+C:/Users/wuxibwave/Desktop/WebBusApp/BLL/bin/Debug/DAL.pdb
+C:/Users/wuxibwave/Desktop/WebBusApp/BLL/bin/Debug/Model.pdb
+C:/Users/wuxibwave/Desktop/WebBusApp/BLL/obj/Debug/BLL.csprojResolveAssemblyReference.cache
+C:/Users/wuxibwave/Desktop/WebBusApp/BLL/obj/Debug/BLL.dll
+C:/Users/wuxibwave/Desktop/WebBusApp/BLL/obj/Debug/BLL.pdb
+D:/WebBus2/BLL/bin/Debug/BLL.dll
+D:/WebBus2/BLL/bin/Debug/BLL.pdb
+D:/WebBus2/BLL/bin/Debug/Common.dll
+D:/WebBus2/BLL/bin/Debug/DAL.dll
+D:/WebBus2/BLL/bin/Debug/Model.dll
+D:/WebBus2/BLL/bin/Debug/Npgsql.dll
+D:/WebBus2/BLL/bin/Debug/Mono.Security.dll
+D:/WebBus2/BLL/bin/Debug/Common.pdb
+D:/WebBus2/BLL/bin/Debug/DAL.pdb
+D:/WebBus2/BLL/bin/Debug/Model.pdb
+D:/WebBus2/BLL/obj/Debug/BLL.csprojResolveAssemblyReference.cache
+D:/WebBus2/BLL/obj/Debug/BLL.dll
+D:/WebBus2/BLL/obj/Debug/BLL.pdb
+/Users/jeffhe/Desktop/WebBus 2/BLL/bin/Debug/BLL.dll
+/Users/jeffhe/Desktop/WebBus 2/BLL/bin/Debug/BLL.pdb
+/Users/jeffhe/Desktop/WebBus 2/BLL/bin/Debug/Common.dll
+/Users/jeffhe/Desktop/WebBus 2/BLL/bin/Debug/DAL.dll
+/Users/jeffhe/Desktop/WebBus 2/BLL/bin/Debug/Model.dll
+/Users/jeffhe/Desktop/WebBus 2/BLL/bin/Debug/Npgsql.dll
+/Users/jeffhe/Desktop/WebBus 2/BLL/bin/Debug/Common.pdb
+/Users/jeffhe/Desktop/WebBus 2/BLL/bin/Debug/DAL.pdb
+/Users/jeffhe/Desktop/WebBus 2/BLL/bin/Debug/Model.pdb
+/Users/jeffhe/Desktop/WebBus 2/BLL/obj/Debug/BLL.csprojResolveAssemblyReference.cache
+/Users/jeffhe/Desktop/WebBus 2/BLL/obj/Debug/BLL.csproj.CoreCompileInputs.cache
+/Users/jeffhe/Desktop/WebBus 2/BLL/obj/Debug/BLL.dll
+/Users/jeffhe/Desktop/WebBus 2/BLL/obj/Debug/BLL.pdb
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/BLL/bin/Debug/BLL.dll
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/BLL/bin/Debug/BLL.pdb
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/BLL/bin/Debug/Common.dll
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/BLL/bin/Debug/DAL.dll
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/BLL/bin/Debug/Model.dll
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/BLL/bin/Debug/Npgsql.dll
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/BLL/bin/Debug/Common.pdb
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/BLL/bin/Debug/DAL.pdb
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/BLL/bin/Debug/Model.pdb
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/BLL/obj/Debug/BLL.csprojResolveAssemblyReference.cache
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/BLL/obj/Debug/BLL.csproj.CoreCompileInputs.cache
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/BLL/obj/Debug/BLL.dll
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/BLL/obj/Debug/BLL.pdb

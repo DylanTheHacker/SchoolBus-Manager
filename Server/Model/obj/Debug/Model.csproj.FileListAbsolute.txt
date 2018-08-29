@@ -1,0 +1,21 @@
+C:/Users/wuxibwave/Desktop/WebBusApp/Model/bin/Debug/Model.dll
+C:/Users/wuxibwave/Desktop/WebBusApp/Model/bin/Debug/Model.pdb
+C:/Users/wuxibwave/Desktop/WebBusApp/Model/obj/Debug/Model.dll
+C:/Users/wuxibwave/Desktop/WebBusApp/Model/obj/Debug/Model.pdb
+C:/Users/wuxibwave/Desktop/WebBusApp/Model/obj/Debug/Model.csprojResolveAssemblyReference.cache
+D:/WebBus2/Model/bin/Debug/Model.dll
+D:/WebBus2/Model/bin/Debug/Model.pdb
+D:/WebBus2/Model/obj/Debug/Model.dll
+D:/WebBus2/Model/obj/Debug/Model.pdb
+/Users/jeffhe/Desktop/WebBus 2/Model/bin/Debug/Model.dll
+/Users/jeffhe/Desktop/WebBus 2/Model/bin/Debug/Model.pdb
+/Users/jeffhe/Desktop/WebBus 2/Model/obj/Debug/Model.csprojResolveAssemblyReference.cache
+/Users/jeffhe/Desktop/WebBus 2/Model/obj/Debug/Model.csproj.CoreCompileInputs.cache
+/Users/jeffhe/Desktop/WebBus 2/Model/obj/Debug/Model.dll
+/Users/jeffhe/Desktop/WebBus 2/Model/obj/Debug/Model.pdb
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/Model/bin/Debug/Model.dll
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/Model/bin/Debug/Model.pdb
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/Model/obj/Debug/Model.csprojResolveAssemblyReference.cache
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/Model/obj/Debug/Model.csproj.CoreCompileInputs.cache
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/Model/obj/Debug/Model.dll
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/Model/obj/Debug/Model.pdb

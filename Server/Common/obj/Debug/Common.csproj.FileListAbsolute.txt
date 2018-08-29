@@ -1,0 +1,19 @@
+C:/Users/wuxibwave/Desktop/WebBusApp/Common/bin/Debug/Common.dll
+C:/Users/wuxibwave/Desktop/WebBusApp/Common/bin/Debug/Common.pdb
+C:/Users/wuxibwave/Desktop/WebBusApp/Common/obj/Debug/Common.dll
+C:/Users/wuxibwave/Desktop/WebBusApp/Common/obj/Debug/Common.pdb
+C:/Users/wuxibwave/Desktop/WebBusApp/Common/obj/Debug/Common.csprojResolveAssemblyReference.cache
+D:/WebBus2/Common/bin/Debug/Common.dll
+D:/WebBus2/Common/bin/Debug/Common.pdb
+D:/WebBus2/Common/obj/Debug/Common.dll
+D:/WebBus2/Common/obj/Debug/Common.pdb
+/Users/jeffhe/Desktop/WebBus 2/Common/bin/Debug/Common.dll
+/Users/jeffhe/Desktop/WebBus 2/Common/bin/Debug/Common.pdb
+/Users/jeffhe/Desktop/WebBus 2/Common/obj/Debug/Common.csproj.CoreCompileInputs.cache
+/Users/jeffhe/Desktop/WebBus 2/Common/obj/Debug/Common.dll
+/Users/jeffhe/Desktop/WebBus 2/Common/obj/Debug/Common.pdb
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/Common/bin/Debug/Common.dll
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/Common/bin/Debug/Common.pdb
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/Common/obj/Debug/Common.csproj.CoreCompileInputs.cache
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/Common/obj/Debug/Common.dll
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/Common/obj/Debug/Common.pdb

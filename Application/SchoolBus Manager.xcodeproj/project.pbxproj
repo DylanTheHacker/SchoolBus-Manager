@@ -1,0 +1,477 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		22002C351F467891005A2726 /* bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 22002C331F467891005A2726 /* bg.png */; };
+		22002C391F468232005A2726 /* POilBtn.m in Sources */ = {isa = PBXBuildFile; fileRef = 22002C381F468232005A2726 /* POilBtn.m */; };
+		22002C3B1F46865C005A2726 /* warn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 22002C3A1F46865C005A2726 /* warn.jpg */; };
+		226F309E1F3C5D300056E346 /* VCSetting.m in Sources */ = {isa = PBXBuildFile; fileRef = 226F309D1F3C5D300056E346 /* VCSetting.m */; };
+		228D85E91F208DEC00738D8B /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 228D85E81F208DEC00738D8B /* MapKit.framework */; };
+		229300861F14B43100B48602 /* VCJoinBus.m in Sources */ = {isa = PBXBuildFile; fileRef = 229300851F14B43100B48602 /* VCJoinBus.m */; };
+		229300891F14BAB600B48602 /* VCLookBus.m in Sources */ = {isa = PBXBuildFile; fileRef = 229300881F14BAB600B48602 /* VCLookBus.m */; };
+		2293008C1F14BAC700B48602 /* VCSelWay.m in Sources */ = {isa = PBXBuildFile; fileRef = 2293008B1F14BAC700B48602 /* VCSelWay.m */; };
+		2293008F1F14BEAF00B48602 /* VCCheckIn.m in Sources */ = {isa = PBXBuildFile; fileRef = 2293008E1F14BEAF00B48602 /* VCCheckIn.m */; };
+		229300921F14BEBF00B48602 /* VCSortList.m in Sources */ = {isa = PBXBuildFile; fileRef = 229300911F14BEBF00B48602 /* VCSortList.m */; };
+		22ACA11F1F147A17005494D4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 22ACA11E1F147A17005494D4 /* main.m */; };
+		22ACA1221F147A17005494D4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 22ACA1211F147A17005494D4 /* AppDelegate.m */; };
+		22ACA1251F147A17005494D4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 22ACA1241F147A17005494D4 /* ViewController.m */; };
+		22ACA1281F147A17005494D4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22ACA1261F147A17005494D4 /* Main.storyboard */; };
+		22ACA12A1F147A17005494D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22ACA1291F147A17005494D4 /* Assets.xcassets */; };
+		22ACA12D1F147A17005494D4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22ACA12B1F147A17005494D4 /* LaunchScreen.storyboard */; };
+		22ACA1391F1491D8005494D4 /* VCEnroll.m in Sources */ = {isa = PBXBuildFile; fileRef = 22ACA1381F1491D8005494D4 /* VCEnroll.m */; };
+		22ACA13C1F1491EC005494D4 /* VCMyBus.m in Sources */ = {isa = PBXBuildFile; fileRef = 22ACA13B1F1491EC005494D4 /* VCMyBus.m */; };
+		22AD196F1F273D9D0060E77B /* SRWebSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 22AD196E1F273D9D0060E77B /* SRWebSocket.m */; };
+		22AD19711F273E920060E77B /* libicucore.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 22AD19701F273E920060E77B /* libicucore.tbd */; };
+		22AD19731F273EA20060E77B /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22AD19721F273EA20060E77B /* CFNetwork.framework */; };
+		22AD19751F273EAA0060E77B /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22AD19741F273EAA0060E77B /* Security.framework */; };
+		22AD19771F273EB20060E77B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22AD19761F273EB20060E77B /* Foundation.framework */; };
+		22E612271F45AD5C00770E23 /* help.png in Resources */ = {isa = PBXBuildFile; fileRef = 22E612261F45AD5C00770E23 /* help.png */; };
+		22E6122A1F45AF6100770E23 /* VCHelp.m in Sources */ = {isa = PBXBuildFile; fileRef = 22E612291F45AF6100770E23 /* VCHelp.m */; };
+		22FFDBCC1F149F17002CD3D5 /* RadioButton-Selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 22FFDBC81F149F17002CD3D5 /* RadioButton-Selected.png */; };
+		22FFDBCD1F149F17002CD3D5 /* RadioButton-Unselected.png in Resources */ = {isa = PBXBuildFile; fileRef = 22FFDBC91F149F17002CD3D5 /* RadioButton-Unselected.png */; };
+		22FFDBCE1F149F17002CD3D5 /* RadioButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 22FFDBCB1F149F17002CD3D5 /* RadioButton.m */; };
+		671BC63B1F509DB50011445B /* launchScreenLabel.png in Resources */ = {isa = PBXBuildFile; fileRef = 671BC63A1F509DB50011445B /* launchScreenLabel.png */; };
+		678C528F1F53169F009EC869 /* help.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 6742F4EC1F51EFC5005AE034 /* help.pdf */; };
+		67E3A4291F4DCA6500DD59AE /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 67E3A4281F4DCA6500DD59AE /* icon.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		22002C331F467891005A2726 /* bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg.png; sourceTree = SOURCE_ROOT; };
+		22002C371F468232005A2726 /* POilBtn.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = POilBtn.h; sourceTree = "<group>"; };
+		22002C381F468232005A2726 /* POilBtn.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = POilBtn.m; sourceTree = "<group>"; };
+		22002C3A1F46865C005A2726 /* warn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = warn.jpg; sourceTree = SOURCE_ROOT; };
+		226F309C1F3C5D300056E346 /* VCSetting.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VCSetting.h; sourceTree = "<group>"; };
+		226F309D1F3C5D300056E346 /* VCSetting.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VCSetting.m; sourceTree = "<group>"; };
+		228D85E81F208DEC00738D8B /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		229300841F14B43100B48602 /* VCJoinBus.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VCJoinBus.h; sourceTree = "<group>"; };
+		229300851F14B43100B48602 /* VCJoinBus.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VCJoinBus.m; sourceTree = "<group>"; };
+		229300871F14BAB600B48602 /* VCLookBus.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VCLookBus.h; sourceTree = "<group>"; };
+		229300881F14BAB600B48602 /* VCLookBus.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VCLookBus.m; sourceTree = "<group>"; };
+		2293008A1F14BAC700B48602 /* VCSelWay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VCSelWay.h; sourceTree = "<group>"; };
+		2293008B1F14BAC700B48602 /* VCSelWay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VCSelWay.m; sourceTree = "<group>"; };
+		2293008D1F14BEAF00B48602 /* VCCheckIn.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VCCheckIn.h; sourceTree = "<group>"; };
+		2293008E1F14BEAF00B48602 /* VCCheckIn.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VCCheckIn.m; sourceTree = "<group>"; };
+		229300901F14BEBF00B48602 /* VCSortList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VCSortList.h; sourceTree = "<group>"; };
+		229300911F14BEBF00B48602 /* VCSortList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VCSortList.m; sourceTree = "<group>"; };
+		22ACA11A1F147A17005494D4 /* SchoolBus Manager.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SchoolBus Manager.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		22ACA11E1F147A17005494D4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		22ACA1201F147A17005494D4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		22ACA1211F147A17005494D4 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		22ACA1231F147A17005494D4 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		22ACA1241F147A17005494D4 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		22ACA1271F147A17005494D4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		22ACA1291F147A17005494D4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		22ACA12C1F147A17005494D4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		22ACA12E1F147A17005494D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		22ACA1371F1491D8005494D4 /* VCEnroll.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VCEnroll.h; sourceTree = "<group>"; };
+		22ACA1381F1491D8005494D4 /* VCEnroll.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VCEnroll.m; sourceTree = "<group>"; };
+		22ACA13A1F1491EC005494D4 /* VCMyBus.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VCMyBus.h; sourceTree = "<group>"; };
+		22ACA13B1F1491EC005494D4 /* VCMyBus.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VCMyBus.m; sourceTree = "<group>"; };
+		22AD196C1F273D9D0060E77B /* SocketRocket-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "SocketRocket-Prefix.pch"; path = "SocketRocket/SocketRocket-Prefix.pch"; sourceTree = "<group>"; };
+		22AD196D1F273D9D0060E77B /* SRWebSocket.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SRWebSocket.h; path = SocketRocket/SRWebSocket.h; sourceTree = "<group>"; };
+		22AD196E1F273D9D0060E77B /* SRWebSocket.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SRWebSocket.m; path = SocketRocket/SRWebSocket.m; sourceTree = "<group>"; };
+		22AD19701F273E920060E77B /* libicucore.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libicucore.tbd; path = usr/lib/libicucore.tbd; sourceTree = SDKROOT; };
+		22AD19721F273EA20060E77B /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		22AD19741F273EAA0060E77B /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		22AD19761F273EB20060E77B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		22E612261F45AD5C00770E23 /* help.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = help.png; sourceTree = SOURCE_ROOT; };
+		22E612281F45AF6100770E23 /* VCHelp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VCHelp.h; sourceTree = "<group>"; };
+		22E612291F45AF6100770E23 /* VCHelp.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VCHelp.m; sourceTree = "<group>"; };
+		22FFDBC81F149F17002CD3D5 /* RadioButton-Selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "RadioButton-Selected.png"; sourceTree = "<group>"; };
+		22FFDBC91F149F17002CD3D5 /* RadioButton-Unselected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "RadioButton-Unselected.png"; sourceTree = "<group>"; };
+		22FFDBCA1F149F17002CD3D5 /* RadioButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RadioButton.h; sourceTree = "<group>"; };
+		22FFDBCB1F149F17002CD3D5 /* RadioButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RadioButton.m; sourceTree = "<group>"; };
+		671BC63A1F509DB50011445B /* launchScreenLabel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = launchScreenLabel.png; sourceTree = SOURCE_ROOT; };
+		6742F4EC1F51EFC5005AE034 /* help.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = help.pdf; sourceTree = SOURCE_ROOT; };
+		67E3A4281F4DCA6500DD59AE /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		22ACA1171F147A16005494D4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				22AD19771F273EB20060E77B /* Foundation.framework in Frameworks */,
+				22AD19751F273EAA0060E77B /* Security.framework in Frameworks */,
+				22AD19731F273EA20060E77B /* CFNetwork.framework in Frameworks */,
+				22AD19711F273E920060E77B /* libicucore.tbd in Frameworks */,
+				228D85E91F208DEC00738D8B /* MapKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		228D85E71F208DEC00738D8B /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				22AD19761F273EB20060E77B /* Foundation.framework */,
+				22AD19741F273EAA0060E77B /* Security.framework */,
+				22AD19721F273EA20060E77B /* CFNetwork.framework */,
+				22AD19701F273E920060E77B /* libicucore.tbd */,
+				228D85E81F208DEC00738D8B /* MapKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		22ACA1111F147A16005494D4 = {
+			isa = PBXGroup;
+			children = (
+				22ACA11C1F147A17005494D4 /* BusApp */,
+				228D85E71F208DEC00738D8B /* Frameworks */,
+				22ACA11B1F147A17005494D4 /* Products */,
+				22AD196B1F273D910060E77B /* SocketRocket */,
+			);
+			sourceTree = "<group>";
+		};
+		22ACA11B1F147A17005494D4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				22ACA11A1F147A17005494D4 /* SchoolBus Manager.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		22ACA11C1F147A17005494D4 /* BusApp */ = {
+			isa = PBXGroup;
+			children = (
+				22002C3A1F46865C005A2726 /* warn.jpg */,
+				22002C371F468232005A2726 /* POilBtn.h */,
+				22002C381F468232005A2726 /* POilBtn.m */,
+				22ACA1201F147A17005494D4 /* AppDelegate.h */,
+				22ACA1211F147A17005494D4 /* AppDelegate.m */,
+				22ACA1291F147A17005494D4 /* Assets.xcassets */,
+				22002C331F467891005A2726 /* bg.png */,
+				6742F4EC1F51EFC5005AE034 /* help.pdf */,
+				22E612261F45AD5C00770E23 /* help.png */,
+				67E3A4281F4DCA6500DD59AE /* icon.png */,
+				22ACA12E1F147A17005494D4 /* Info.plist */,
+				22ACA12B1F147A17005494D4 /* LaunchScreen.storyboard */,
+				22ACA1261F147A17005494D4 /* Main.storyboard */,
+				671BC63A1F509DB50011445B /* launchScreenLabel.png */,
+				22FFDBC81F149F17002CD3D5 /* RadioButton-Selected.png */,
+				22FFDBC91F149F17002CD3D5 /* RadioButton-Unselected.png */,
+				22FFDBCA1F149F17002CD3D5 /* RadioButton.h */,
+				22FFDBCB1F149F17002CD3D5 /* RadioButton.m */,
+				22ACA11D1F147A17005494D4 /* Supporting Files */,
+				2293008D1F14BEAF00B48602 /* VCCheckIn.h */,
+				2293008E1F14BEAF00B48602 /* VCCheckIn.m */,
+				22ACA1371F1491D8005494D4 /* VCEnroll.h */,
+				22ACA1381F1491D8005494D4 /* VCEnroll.m */,
+				22E612281F45AF6100770E23 /* VCHelp.h */,
+				22E612291F45AF6100770E23 /* VCHelp.m */,
+				229300841F14B43100B48602 /* VCJoinBus.h */,
+				229300851F14B43100B48602 /* VCJoinBus.m */,
+				229300871F14BAB600B48602 /* VCLookBus.h */,
+				229300881F14BAB600B48602 /* VCLookBus.m */,
+				22ACA13A1F1491EC005494D4 /* VCMyBus.h */,
+				22ACA13B1F1491EC005494D4 /* VCMyBus.m */,
+				2293008A1F14BAC700B48602 /* VCSelWay.h */,
+				2293008B1F14BAC700B48602 /* VCSelWay.m */,
+				226F309C1F3C5D300056E346 /* VCSetting.h */,
+				226F309D1F3C5D300056E346 /* VCSetting.m */,
+				229300901F14BEBF00B48602 /* VCSortList.h */,
+				229300911F14BEBF00B48602 /* VCSortList.m */,
+				22ACA1231F147A17005494D4 /* ViewController.h */,
+				22ACA1241F147A17005494D4 /* ViewController.m */,
+			);
+			path = BusApp;
+			sourceTree = "<group>";
+		};
+		22ACA11D1F147A17005494D4 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				22ACA11E1F147A17005494D4 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		22AD196B1F273D910060E77B /* SocketRocket */ = {
+			isa = PBXGroup;
+			children = (
+				22AD196C1F273D9D0060E77B /* SocketRocket-Prefix.pch */,
+				22AD196D1F273D9D0060E77B /* SRWebSocket.h */,
+				22AD196E1F273D9D0060E77B /* SRWebSocket.m */,
+			);
+			name = SocketRocket;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		22ACA1191F147A16005494D4 /* SchoolBus Manager */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 22ACA1311F147A17005494D4 /* Build configuration list for PBXNativeTarget "SchoolBus Manager" */;
+			buildPhases = (
+				22ACA1161F147A16005494D4 /* Sources */,
+				22ACA1171F147A16005494D4 /* Frameworks */,
+				22ACA1181F147A16005494D4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "SchoolBus Manager";
+			productName = BusApp;
+			productReference = 22ACA11A1F147A17005494D4 /* SchoolBus Manager.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		22ACA1121F147A16005494D4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = macOS;
+				TargetAttributes = {
+					22ACA1191F147A16005494D4 = {
+						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = AWSAFYYLYV;
+						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 0;
+							};
+						};
+					};
+				};
+			};
+			buildConfigurationList = 22ACA1151F147A16005494D4 /* Build configuration list for PBXProject "SchoolBus Manager" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 22ACA1111F147A16005494D4;
+			productRefGroup = 22ACA11B1F147A17005494D4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				22ACA1191F147A16005494D4 /* SchoolBus Manager */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		22ACA1181F147A16005494D4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				678C528F1F53169F009EC869 /* help.pdf in Resources */,
+				22FFDBCD1F149F17002CD3D5 /* RadioButton-Unselected.png in Resources */,
+				22FFDBCC1F149F17002CD3D5 /* RadioButton-Selected.png in Resources */,
+				22E612271F45AD5C00770E23 /* help.png in Resources */,
+				671BC63B1F509DB50011445B /* launchScreenLabel.png in Resources */,
+				22002C3B1F46865C005A2726 /* warn.jpg in Resources */,
+				22ACA12D1F147A17005494D4 /* LaunchScreen.storyboard in Resources */,
+				67E3A4291F4DCA6500DD59AE /* icon.png in Resources */,
+				22002C351F467891005A2726 /* bg.png in Resources */,
+				22ACA12A1F147A17005494D4 /* Assets.xcassets in Resources */,
+				22ACA1281F147A17005494D4 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		22ACA1161F147A16005494D4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				22AD196F1F273D9D0060E77B /* SRWebSocket.m in Sources */,
+				22ACA13C1F1491EC005494D4 /* VCMyBus.m in Sources */,
+				22ACA1251F147A17005494D4 /* ViewController.m in Sources */,
+				2293008F1F14BEAF00B48602 /* VCCheckIn.m in Sources */,
+				22ACA1221F147A17005494D4 /* AppDelegate.m in Sources */,
+				22ACA1391F1491D8005494D4 /* VCEnroll.m in Sources */,
+				229300861F14B43100B48602 /* VCJoinBus.m in Sources */,
+				22E6122A1F45AF6100770E23 /* VCHelp.m in Sources */,
+				22ACA11F1F147A17005494D4 /* main.m in Sources */,
+				229300921F14BEBF00B48602 /* VCSortList.m in Sources */,
+				22002C391F468232005A2726 /* POilBtn.m in Sources */,
+				229300891F14BAB600B48602 /* VCLookBus.m in Sources */,
+				2293008C1F14BAC700B48602 /* VCSelWay.m in Sources */,
+				226F309E1F3C5D300056E346 /* VCSetting.m in Sources */,
+				22FFDBCE1F149F17002CD3D5 /* RadioButton.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		22ACA1261F147A17005494D4 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				22ACA1271F147A17005494D4 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		22ACA12B1F147A17005494D4 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				22ACA12C1F147A17005494D4 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		22ACA12F1F147A17005494D4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		22ACA1301F147A17005494D4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		22ACA1321F147A17005494D4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = icon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = AWSAFYYLYV;
+				GCC_PREFIX_HEADER = "SocketRocket/SocketRocket-Prefix.pch";
+				INFOPLIST_FILE = BusApp/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = cc.bwave.;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		22ACA1331F147A17005494D4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = icon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = AWSAFYYLYV;
+				GCC_PREFIX_HEADER = "SocketRocket/SocketRocket-Prefix.pch";
+				INFOPLIST_FILE = BusApp/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = cc.bwave.;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		22ACA1151F147A16005494D4 /* Build configuration list for PBXProject "SchoolBus Manager" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				22ACA12F1F147A17005494D4 /* Debug */,
+				22ACA1301F147A17005494D4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		22ACA1311F147A17005494D4 /* Build configuration list for PBXNativeTarget "SchoolBus Manager" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				22ACA1321F147A17005494D4 /* Debug */,
+				22ACA1331F147A17005494D4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 22ACA1121F147A16005494D4 /* Project object */;
+}

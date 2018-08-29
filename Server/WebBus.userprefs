@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{FA8F06FF-005A-42F7-A90A-AA70876EB7F7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BLL/BLLChat.cs">
+    <Files>
+      <File FileName="DAL/DalTableDrivers.cs" Line="56" Column="8" />
+      <File FileName="BLL/BLLUsers.cs" Line="12" Column="3" />
+      <File FileName="WebBus/WebSocketHandler.ashx.cs" Line="78" Column="8" />
+      <File FileName="BLL/BLLChat.cs" Line="30" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebBus PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

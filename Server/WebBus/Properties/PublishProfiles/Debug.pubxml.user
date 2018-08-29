@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\BUS</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/BLL.dll">
+      <publishTime>11/02/2017 09:52:05</publishTime>
+    </File>
+    <File Include="bin/BLL.pdb">
+      <publishTime>08/03/2017 11:13:51</publishTime>
+    </File>
+    <File Include="bin/Common.dll">
+      <publishTime>11/02/2017 09:52:03</publishTime>
+    </File>
+    <File Include="bin/Common.pdb">
+      <publishTime>08/03/2017 11:13:50</publishTime>
+    </File>
+    <File Include="bin/DAL.dll">
+      <publishTime>11/02/2017 09:52:04</publishTime>
+    </File>
+    <File Include="bin/DAL.pdb">
+      <publishTime>08/03/2017 11:13:51</publishTime>
+    </File>
+    <File Include="bin/Model.dll">
+      <publishTime>11/02/2017 09:52:03</publishTime>
+    </File>
+    <File Include="bin/Model.pdb">
+      <publishTime>08/03/2017 11:13:50</publishTime>
+    </File>
+    <File Include="bin/Mono.Security.dll">
+      <publishTime>08/21/2017 16:25:04</publishTime>
+    </File>
+    <File Include="bin/Npgsql.dll">
+      <publishTime>08/21/2017 16:25:04</publishTime>
+    </File>
+    <File Include="bin/WebBus.dll">
+      <publishTime>11/02/2017 09:52:06</publishTime>
+    </File>
+    <File Include="bin/WebBus.pdb">
+      <publishTime>08/03/2017 11:25:12</publishTime>
+    </File>
+    <File Include="DeleteSelectedVehicleThroughDriver.ashx">
+      <publishTime>08/08/2017 10:10:46</publishTime>
+    </File>
+    <File Include="DeleteSelectedVehicleThroughParent.ashx">
+      <publishTime>08/08/2017 10:10:46</publishTime>
+    </File>
+    <File Include="GetAbsentState.ashx">
+      <publishTime>08/02/2017 13:15:48</publishTime>
+    </File>
+    <File Include="GetAllVehicles.ashx">
+      <publishTime>08/02/2017 13:15:49</publishTime>
+    </File>
+    <File Include="GetDriverAddedVehicles.ashx">
+      <publishTime>08/02/2017 13:15:48</publishTime>
+    </File>
+    <File Include="GetParentAddedVehicles.ashx">
+      <publishTime>08/02/2017 13:15:48</publishTime>
+    </File>
+    <File Include="GetStudentsSort.ashx">
+      <publishTime>08/02/2017 13:15:48</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>08/02/2017 14:16:25</publishTime>
+    </File>
+    <File Include="js/jquery-min.js">
+      <publishTime>08/03/2017 11:32:18</publishTime>
+    </File>
+    <File Include="Login.ashx">
+      <publishTime>08/02/2017 13:44:23</publishTime>
+    </File>
+    <File Include="Login.html">
+      <publishTime>09/18/2017 14:49:28</publishTime>
+    </File>
+    <File Include="Register.ashx">
+      <publishTime>08/02/2017 13:15:49</publishTime>
+    </File>
+    <File Include="Register.html">
+      <publishTime>08/02/2017 13:15:49</publishTime>
+    </File>
+    <File Include="Test.html">
+      <publishTime>09/19/2017 14:58:23</publishTime>
+    </File>
+    <File Include="UploadAbsentState.ashx">
+      <publishTime>08/02/2017 13:15:48</publishTime>
+    </File>
+    <File Include="UploadDriverAddVehicle.ashx">
+      <publishTime>08/02/2017 13:15:48</publishTime>
+    </File>
+    <File Include="UploadParentAddVehicle.ashx">
+      <publishTime>08/02/2017 13:15:48</publishTime>
+    </File>
+    <File Include="UploadParentSelectedVehicle.ashx">
+      <publishTime>08/02/2017 13:15:47</publishTime>
+    </File>
+    <File Include="UploadStudentsSort.ashx">
+      <publishTime>08/02/2017 13:15:49</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/02/2017 18:30:33</publishTime>
+    </File>
+    <File Include="WebSocketHandler.ashx">
+      <publishTime>08/02/2017 13:15:49</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

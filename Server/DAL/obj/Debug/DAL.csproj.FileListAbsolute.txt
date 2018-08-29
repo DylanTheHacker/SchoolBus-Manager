@@ -1,0 +1,38 @@
+C:/Users/wuxibwave/Desktop/WebBusApp/DAL/bin/Debug/DAL.dll
+C:/Users/wuxibwave/Desktop/WebBusApp/DAL/bin/Debug/DAL.pdb
+C:/Users/wuxibwave/Desktop/WebBusApp/DAL/bin/Debug/Model.dll
+C:/Users/wuxibwave/Desktop/WebBusApp/DAL/bin/Debug/Mono.Security.dll
+C:/Users/wuxibwave/Desktop/WebBusApp/DAL/bin/Debug/Npgsql.dll
+C:/Users/wuxibwave/Desktop/WebBusApp/DAL/bin/Debug/Model.pdb
+C:/Users/wuxibwave/Desktop/WebBusApp/DAL/obj/Debug/DAL.csprojResolveAssemblyReference.cache
+C:/Users/wuxibwave/Desktop/WebBusApp/DAL/obj/Debug/DAL.dll
+C:/Users/wuxibwave/Desktop/WebBusApp/DAL/obj/Debug/DAL.pdb
+D:/WebBus2/DAL/bin/Debug/DAL.dll
+D:/WebBus2/DAL/bin/Debug/DAL.pdb
+D:/WebBus2/DAL/bin/Debug/Model.dll
+D:/WebBus2/DAL/bin/Debug/Mono.Security.dll
+D:/WebBus2/DAL/bin/Debug/Npgsql.dll
+D:/WebBus2/DAL/bin/Debug/Model.pdb
+D:/WebBus2/DAL/obj/Debug/DAL.csprojResolveAssemblyReference.cache
+D:/WebBus2/DAL/obj/Debug/DAL.dll
+D:/WebBus2/DAL/obj/Debug/DAL.pdb
+/Users/jeffhe/Desktop/WebBus 2/DAL/bin/Debug/DAL.dll
+/Users/jeffhe/Desktop/WebBus 2/DAL/bin/Debug/DAL.pdb
+/Users/jeffhe/Desktop/WebBus 2/DAL/bin/Debug/Model.dll
+/Users/jeffhe/Desktop/WebBus 2/DAL/bin/Debug/Mono.Security.dll
+/Users/jeffhe/Desktop/WebBus 2/DAL/bin/Debug/Npgsql.dll
+/Users/jeffhe/Desktop/WebBus 2/DAL/bin/Debug/Model.pdb
+/Users/jeffhe/Desktop/WebBus 2/DAL/obj/Debug/DAL.csprojResolveAssemblyReference.cache
+/Users/jeffhe/Desktop/WebBus 2/DAL/obj/Debug/DAL.csproj.CoreCompileInputs.cache
+/Users/jeffhe/Desktop/WebBus 2/DAL/obj/Debug/DAL.dll
+/Users/jeffhe/Desktop/WebBus 2/DAL/obj/Debug/DAL.pdb
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/DAL/bin/Debug/DAL.dll
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/DAL/bin/Debug/DAL.pdb
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/DAL/bin/Debug/Model.dll
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/DAL/bin/Debug/Mono.Security.dll
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/DAL/bin/Debug/Npgsql.dll
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/DAL/bin/Debug/Model.pdb
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/DAL/obj/Debug/DAL.csprojResolveAssemblyReference.cache
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/DAL/obj/Debug/DAL.csproj.CoreCompileInputs.cache
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/DAL/obj/Debug/DAL.dll
+/Users/jeffhe/Desktop/CS/IT IA /CS bus application/WebBus/DAL/obj/Debug/DAL.pdb
